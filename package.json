@@ -1,5 +1,6 @@
 {
-  "name": "vue",
+  "name": "vue2-test",
+  "description": "Vue just playground",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -47,6 +48,5 @@
     "vue",
     "vuejs",
     "starter"
-  ],
-  "description": "Vue.js example starter project"
+  ]
 }
